@@ -11,18 +11,22 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | TITLE                                                                                      | GENRE                          | SEASON/YEAR | MAL SCORE  |
 |--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|
 | 🎞 [.hack//Sign](https://myanimelist.net/anime/48/hack__Sign)      | Game, Sci-Fi, Adventure, Mystery, Magic, Fantasy | Spring 2002 | ⭐ 7.00 | 
+| 🎞 [Accel World](https://myanimelist.net/anime/11759/Accel_World?q=accel&cat=anime)    | Action, Romance, Sci-Fi | Spring 2012 | ⭐ 7.27 |
 | 🎞 [Angel Beats!](https://myanimelist.net/anime/6547/Angel_Beats)      | Action, Comedy, Drama, School, Supernatural | Spring 2010 | ⭐ 8.18 |   
 | 📽 [Battle Programmer Shirase](https://myanimelist.net/anime/579/Battle_Programmer_Shirase) |   Comedy, Ecchi, Sci-Fi | 2004 | ⭐ 7.64 |
 | 📽 [Blood-C: The Last Dark](https://myanimelist.net/anime/10681/Blood-C__The_Last_Dark)        |  Action, Horror, Supernatural, Vampire | 2012 | ⭐ 7.21 | 
+| 🎞 [Bokutachi no Remake](https://myanimelist.net/anime/40904/Bokutachi_no_Remake?q=bokutaci&cat=anime)        |  Drama, Romance, Slice of Life | 2021 | ⭐ 7.52 | 
 | 📽 [Byousoku 5 Centimeter](https://myanimelist.net/anime/1689/Byousoku_5_Centimeter)        | Drama, Romance, Slice of Life | 2007 | ⭐ 7.78 | 
 | 🎞 [Bungou Stray Dogs](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs) |  Action, Comedy, Mystery, Seinen, Super Power, Supernatural | Spring 2016 | ⭐ 7.78 |  
 | 🎞 [Bungou Stray Dogs 2nd Season](https://myanimelist.net/anime/32867/Bungou_Stray_Dogs_2nd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Fall 2016 | ⭐ 8.22 |
 | 🎞 [Bungou Stray Dogs 3rd Season](https://myanimelist.net/anime/38003/Bungou_Stray_Dogs_3rd_Season) | Action, Mystery, Seinen, Super Power, Supernatural | Spring 2019 | ⭐ 8.16 |	
+| 🎞 [Choujigen Game Neptune The Animation](https://myanimelist.net/anime/16157/Choujigen_Game_Neptune_The_Animation)    |  Action, Comedy, Fantasy, Sci-Fi, Supernatural | Summer 2013 | ⭐ 6.95 | 
 | 🎞 [Chuunibyou demo Koi ga Shitai!](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Fall 2012 | ⭐ 7.78 |
 | 🎞 [Chuunibyou demo Koi ga Shitai! Ren](https://myanimelist.net/anime/14741/Chuunibyou_demo_Koi_ga_Shitai)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2014 | ⭐ 7.56 |
 | 📽 [Chuunibyou demo Koi ga Shitai! Movie: Take On Me](https://myanimelist.net/anime/35608/Chuunibyou_demo_Koi_ga_Shitai_Movie__Take_On_Me)        |  Drama, Comedy, Slice of Life, Romance, School | Winter 2018 | ⭐ 8.17 |
 | 🎞 [Cowboy Bebop](https://myanimelist.net/anime/1/Cowboy_Bebop)        |    Action, Adventure, Comedy, Drama, Sci-Fi, Space | Spring 1998 | ⭐ 8.79 | 
 | 🎞 [Dagashi Kashi](https://myanimelist.net/anime/31636/Dagashi_Kashi)        |   Comedy, Shounen, Slice of Life | Winter 2016 | ⭐ 6.65 | 
+| 🎞️ [Darwin's Game](https://myanimelist.net/anime/38656/Darwins_Game)         | Action, Mystery, Sci-Fi | Winter 2020 | ⭐ 7.27 |
 | 🎞 [Deca-Dence](https://myanimelist.net/anime/40056/Deca-Dence)                                |  Action, Sci-Fi, Adventure   | Summer 2020 | ⭐ 7.57       |
 | 🎞 [Digimon Adventure](https://myanimelist.net/anime/552/Digimon_Adventure)      |  Action, Adventure, Comedy, Fantasy, Kids  | Spring 1999 | ⭐ 7.80       |
 | 🎞 [Neon Genesis Evangelion](https://myanimelist.net/anime/30/Neon_Genesis_Evangelion)      | Action, Sci-Fi, Dementia, Psychological, Drama, Mecha| Fall 1995| ⭐ 8.31 |   
@@ -32,8 +36,9 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [Hello World](https://myanimelist.net/anime/38816/Hello_World)                   | Sci-Fi, Drama, Romance | 2019 | ⭐ 7.61 |
 | 🎞 [Kamisama ni Natta Hi](https://myanimelist.net/anime/41930/Kamisama_ni_Natta_Hi) |  Drama, Fantasy | Fall 2020 | ⭐ 7.58 |
 | 🎞 [Kamisama no Memochou](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Mystery | Summer 2011 | ⭐ 7.55 |
-| 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/10568/Kamisama_no_Memochou)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.77 |
+| 🎞 [Kami-tachi ni Hirowareta Otoko](https://myanimelist.net/anime/41312/Kami-tachi_ni_Hirowareta_Otoko)  | Adventure, Slice of Life, Magic, Fantasy | Fall 2020 | ⭐ 6.91 |
 | 🎞 [Kemono Jihen](https://myanimelist.net/anime/40908/Kemono_Jihen)        |   Action, Mystery, Demons, Supernatural, Shounen | Winter 2021 | ⭐ 7.46 |
+| 🎞 [Kobayashi-san Chi no Maid Dragon](https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon)        |  Comedy, Fantasy, Slice of Life | Winter 2017 | ⭐ 8.01 |
 | 📽 [Koukaku Kidoutai](https://myanimelist.net/anime/43/Koukaku_Kidoutai)        |  Action, Mecha, Police, Psychological, Sci-Fi, Seinen  | 1995 | ⭐ 8.30 |
 | 🎞 [New Game!](https://myanimelist.net/anime/31953/New_Game)                                |  Game, Slice of Life, Comedy   | Summer 2016 | ⭐ 7.64       |
 | 🎞 [New Game!!](https://myanimelist.net/anime/34914/New_Game)                                |  Game, Slice of Life, Comedy   |  Summer 2017 | ⭐ 7.79      |
@@ -60,10 +65,7 @@ Legend: 🎞 = Anime series, 📽 = Anime Movie
 | 📽 [The Animatrix](https://myanimelist.net/anime/1303/The_Animatrix)        |  Action, Drama, Sci-Fi, Anime | 2003 | ⭐ 7.29 | 
 | 🎞 [Tonikaku Kawaii](https://myanimelist.net/anime/41389/Tonikaku_Kawaii)    | Comedy, Romance, Shounen | Fall 2020 | ⭐ 7.78 |
 | 🎞 [Vivy: Fluorite Eye's Song](https://myanimelist.net/anime/46095/Vivy__Fluorite_Eyes_Song)    | Sci-Fi, Music | Spring 2021 | ⭐ 8.04 |
-| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 | 
-
-
-
-
+| 🎞 [Yu☆Gi☆Oh! Zexal](https://myanimelist.net/anime/10015/Yu%E2%98%86Gi%E2%98%86Oh_Zexal)        | Action, Fantasy |  Spring 2011 | ⭐ 6.35 | 
+| 🎞 [Zankyou no Terror](https://myanimelist.net/anime/23283/Zankyou_no_Terror)        |  Mystery, Psychological, Thriller | Summer 2014 | ⭐ 8.13 |
 
 Inspired by [movies-for-hackers](https://github.com/k4m4/movies-for-hackers)
